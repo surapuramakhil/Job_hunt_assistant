@@ -1,5 +1,5 @@
 # A function defines the task we're tackling (e.g. generating a haiku)...
-[functions.generate_response]
+[functions.generate_haiku]
 type = "chat"
 
 # ... and a variant is one of many implementations we can use to tackle it (a choice of prompt, model, etc.).
